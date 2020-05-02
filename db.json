@@ -1,7 +1,7 @@
 {
   "basic": [
-    { "market_analysis": "hot","commute_distance": 1.2,"location_score": 60,"walk_score": 100,"transit_score": 100 },
-    { "market_analysis": "hot","commute_distance": 1.2,"location_score": 60,"walk_score": 100,"transit_score": 100 }
+    { "id": 1, "market_analysis": "hot","commute_distance": 1.2,"location_score": 60,"walk_score": 100,"transit_score": 100 },
+    { "id": 2, "market_analysis": "hot","commute_distance": 1.2,"location_score": 60,"walk_score": 100,"transit_score": 100 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
