@@ -1,0 +1,14 @@
+{
+  "basic": [
+    {
+      "market_analysis": "hot",
+      "commute_distance": 1.2,
+      "location_score": 60,
+      "walk_score": 100,
+      "transit_score": 100,
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
