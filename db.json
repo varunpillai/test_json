@@ -10,7 +10,24 @@
       "income_storage": 0.0, 
       "income_parking": 0.0, 
       "income_vending": 0.0, 
-      "income_misc": 0.0 
+      "income_misc": 0.0,
+      "expense_taxes":10891.0,
+      "expense_insurance":150.0,
+      "expense_water_sewer":60.0,
+      "expense_garbage":70.0,
+      "expense_electric":0.0,
+      "expense_gas":0.0,
+      "expense_cable_phone_internet":0.0,
+      "expense_hoa_fees":0.0,
+      "expense_lawn_snow":16.67,
+      "expense_vacancy_percent":0.1,
+      "expense_repairs":50.0,
+      "expense_pest_control":10.0,
+      "expense_accounting_legal":0.0,
+      "expense_advertising":0.0,
+      "expense_replacement_reserve":50.0,
+      "expense_capex":0.0,
+      "expense_prop_mgmt":0.0 
     }
   ],
   "profile": {
