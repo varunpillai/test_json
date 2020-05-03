@@ -4,7 +4,9 @@
     { "id": 2, "market_analysis": "hot", "commute_distance": 1.2, "location_score": 60, "walk_score": 100, "transit_score": 100 }
   ],
   "properties": [
-    { "id": 1, "income_rental": 2200.0, "income_laundry": 0.0, "income_storage": 0.0, "income_parking": 0.0, "income_vending": 0.0, "income_misc": 0.0 },
+    { "id": 1, "income_rental": 2200.0, "income_laundry": 0.0, "income_storage": 0.0, "income_parking": 0.0, "income_vending": 0.0, 
+      "income_misc": 0.0 
+ },
     { "id": 2, "income_rental": 2200.0, "income_laundry": 0.0, "income_storage": 0.0, "income_parking": 0.0, "income_vending": 0.0, "income_misc": 0.0 },
     { "id": 3, "income_rental": 2200.0, "income_laundry": 0.0, "income_storage": 0.0, "income_parking": 0.0, "income_vending": 0.0, "income_misc": 0.0 }
   ],
