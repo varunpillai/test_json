@@ -27,7 +27,15 @@
       "expense_advertising":0.0,
       "expense_replacement_reserve":50.0,
       "expense_capex":0.0,
-      "expense_prop_mgmt":0.0 
+      "expense_prop_mgmt":0.0,
+      "inv_asking_price":110000.0,
+      "inv_actual_price":0.0,
+      "inv_closing_cost_percent":0.1,
+      "inv_length_of_mortgage":30.0,
+      "inv_annual_interest_percent":0.04,
+      "inv_rehab_budget":10000.0,
+      "inv_misc_other":0.0,
+      "inv_down_payment_percent":0.2
     }
   ],
   "profile": {
