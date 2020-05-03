@@ -36,6 +36,12 @@
       "inv_rehab_budget":10000.0,
       "inv_misc_other":0.0,
       "inv_down_payment_percent":0.2
+      "prop_acre":0.32,
+      "prop_address":"103 S Narberth Ave, #C, Narberth, PA 19072",
+      "prop_bath":2.5,
+      "prop_bed":3.0,
+      "prop_on_market":32,
+      "prop_type":"Multifamily"
     }
   ],
   "profile": {
