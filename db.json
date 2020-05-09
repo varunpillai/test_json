@@ -41,7 +41,9 @@
       "prop_bath":2.5,
       "prop_bed":3.0,
       "prop_on_market":32,
-      "prop_type":"Multifamily"
+      "prop_type":"Multifamily",
+      "annual_salary":110000,
+      "desired_cap_rate":0.08
     }
   ],
   "profile": {
